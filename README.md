@@ -1,2 +1,1 @@
-# p2c
-This is a basic p2c base created in C++
+If you would like to support me and my projects like or comment on this thread/repo.
